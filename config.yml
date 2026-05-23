@@ -57,8 +57,8 @@ params:
           title: Udula Dewmina
           subtitle: "A tech-driven undergraduate student specializing in Cyber Security and Digital Technologies through the Pearson BTEC Level 5 HND program at Nebula Institute of Technology, Peradeniya."
           imageUrl: "me.jpeg"
-          imageWidth: 180
-          imageHeight: 180
+          imageWidth: 720
+          imageHeight: 1280
           buttons:
             - name: Papers
               url: papers/
