@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Udula Dewmina
           subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "static/me.jpeg"
+          imageUrl: "me.jpeg"
           imageWidth: 720
           imageHeight: 1280
           buttons:
